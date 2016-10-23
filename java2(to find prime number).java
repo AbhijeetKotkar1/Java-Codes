@@ -3,12 +3,6 @@ import java.util.Scanner;
  
 class Hello {
 	
-	
-	static public void addition(int m,int n)
-	{
-		System.out.println(m+n);
-	}
- 
     
     public static void main (String[] args) {
     	
